@@ -23,6 +23,7 @@
 
 ## Структура проекта
 
+```
 monitoring-task/
 │
 ├── scripts/
@@ -36,7 +37,7 @@ monitoring-task/
 │ └── fake-test-process.sh # тестовый процесс
 │
 └── README.md
-
+```
 ---
 
 ## Установка
